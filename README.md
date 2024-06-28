@@ -11,7 +11,7 @@ This repository contains my notes and project files for the tenth module of a Py
 - **Platform:** Udemy
 
 ### In-Depth Contents
-This repository is organized into the following sections:
+This repository is organised into the following sections:
 
 1. **Jupyter Notebooks - Errors and Exception Handling:**
    This directory contains Jupyter notebooks that cover various aspects of error and exception handling in Python.
@@ -26,7 +26,7 @@ This repository is organized into the following sections:
    - [testfile](Jupyter%20Notebooks%20-%20Errors%20and%20Exception%20Handling/testfile)
 
 2. **Notes on Videos - Module 10 Errors and Exceptions Handling:**
-   This section contains PDF notes summarizing the key points from the video lectures in Module 10.
+   This section contains PDF notes summarising the key points from the video lectures in Module 10.
    - [1 of 6 Errors and Exception Handling](Notes%20on%20Videos%20-%20Module%2010%20Errors%20and%20Exceptions%20Handling/1%20of%206%20Errors%20and%20Exception%20Handling.pdf)
    - [2 of 6 Errors and Exceptions Homework](Notes%20on%20Videos%20-%20Module%2010%20Errors%20and%20Exceptions%20Handling/2%20of%206%20Errors%20and%20Exceptions%20Homework.pdf)
    - [3 of 6 Errors and Exception Homework - Solutions](Notes%20on%20Videos%20-%20Module%2010%20Errors%20and%20Exceptions%20Handling/3%20of%206%20Errors%20and%20Exception%20Homework%20-%20Solutions.pdf)
